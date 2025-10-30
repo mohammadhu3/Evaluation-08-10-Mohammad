@@ -17,7 +17,7 @@ The goal was to respect the given mockups, use semantic HTML structure, and appl
 
 ---
 
-Evaluation-08-10-Mohammad/
+## Evaluation-08-10-Mohammad/
 │
 ├── index.html
 │
