@@ -26,17 +26,8 @@ The goal was to respect the given mockups, use semantic HTML structure, and appl
 │ │ └── style.css
 │ │
 │ ├── img/
-│ │ ├── icon-arrow.svg
-│ │ ├── icon-angle-left.svg
-│ │ ├── icon-angle-right.svg
-│ │ ├── mobile-image-hero-1.jpg
-│ │ ├── desktop-image-hero-1.jpg
-│ │ ├── image-about-dark.jpg
-│ │ └── image-about-light.jpg
 │ │
 │ └── font/
-│ └── LeagueSpartan-VariableFont_wght.ttf
-│
 └── README.md
     
 
