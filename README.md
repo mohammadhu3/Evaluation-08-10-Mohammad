@@ -18,16 +18,21 @@ The goal was to respect the given mockups, use semantic HTML structure, and appl
 ---
 
 ## Project Structure
-Evaluation-08-10-Mohammad/
-│
-├── index.html
-├── assets/
-│ ├── css/
-│ │ └── style.css
-│ ├── img/
-│ └── font/
 │
 └── README.md
+Evaluation-08-10-Mohammad/
+index.html
+assets/
+│
+├── css/
+│
+│   └── style.css
+│
+├── img/
+│  
+│
+└── font/
+    
 
 
 ---
